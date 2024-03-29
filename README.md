@@ -25,3 +25,7 @@ I set the file to be constantly running every minute to check your channel to se
 Python libraries needed :
   - google-api-python-client
   - google-auth-oauthlib
+
+
+References:
+https://www.youtube.com/watch?v=vQQEaSnQ_bs&t=1101s
